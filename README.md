@@ -2,6 +2,7 @@
 
 This project is a frontend clone of the Udemy website, built using HTML5 and CSS3. The goal of this project is to practice modern web layout techniques and improve UI design skills by recreating a real-world learning platform interface.
 
+
 ✨ Features
 
 Responsive homepage layout
@@ -14,6 +15,7 @@ Clean and modern UI inspired by Udemy
 
 Built using pure HTML and CSS (no frameworks or JavaScript)
 
+
 🎯 Purpose
 
 This project was created to:
@@ -24,36 +26,26 @@ Improve CSS layout skills using Flexbox and Grid
 
 Understand how real-world websites are structured
 
+
 🛠️ Technologies Used
 
 HTML5
 
 CSS3
 
+
 👀 How to View
 
-You can view this project in two ways:
-
-Live Preview (GitHub Pages)
-
-Go to the repository Settings
-
-Navigate to Pages
-
-Select the main branch and /root folder
-
-Open the generated link in your browser
-
-Run Locally
+You can access my Portfolio website by visiting: https://sutharsonmoorthy.github.io/Udemy-Clone-/
 
 Clone the repository:
 
 git clone https://github.com/sutharsonmoorthy/Udemy-Clone-.git
 
-
 Open the project folder
 
 Double-click index.html or open it in your browser
+
 
 🚀 Future Improvements
 
@@ -62,6 +54,7 @@ Add JavaScript for interactivity
 Improve responsiveness for mobile devices
 
 Add more pages (course details, login, signup)
+
 
 📌 Disclaimer
 
