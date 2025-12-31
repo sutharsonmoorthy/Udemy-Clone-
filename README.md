@@ -36,7 +36,7 @@ CSS3
 
 ## How to View
 
-You can access my Portfolio website by visiting: https://sutharsonmoorthy.github.io/Udemy-Clone-/
+You can access My Udemy clone website by visiting: https://sutharsonmoorthy.github.io/Udemy-Clone-/
 
 Clone the repository:
 
